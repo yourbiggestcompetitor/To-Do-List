@@ -7,7 +7,5 @@ Features:
 ~Strikes off tasks that are done
 ~Shows completed and incompleted tasks
 
-## Screenshots
-
-![App Screenshot](https://ibb.co/VNqJSK8)
+Please check the attached screenshot for the screenshot of a demo of the website application. 
 
